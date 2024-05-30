@@ -40,7 +40,7 @@ int main(){
         printf("2) Get the Nth Prime number\n");
         printf("q) Quit\n");
         printf("Pick an option: ");
-        scanf("%c", &an_option);
+        scanf(" %c", &an_option);
         switch (an_option){
             case '1':
                 printf("\nEnter a number: ");
