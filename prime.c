@@ -12,7 +12,7 @@ int prime(int num){
 }
 
 // ex: second prime number
-// 2
+// 3
 
 int nth_prime(int n){
     int counter = 0;
